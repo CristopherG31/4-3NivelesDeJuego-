@@ -1,4 +1,4 @@
-# [Nombre de tu juego] - Videojuego 3D en Unity 6
+# Videojuego 3D en Unity 6
 
 Juego 3D de plataformas y recolección hecho en **Unity 6**, con controles para **PC y móvil (Android)**, niveles generados proceduralmente, dificultad progresiva y guardado persistente con `PlayerPrefs`.
 
