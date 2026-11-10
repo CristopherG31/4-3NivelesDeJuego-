@@ -91,5 +91,5 @@ Para empezar de cero, usa el botón **Nueva partida**.
 4. Abrir la escena `Assets/Scenes/[NombreDeTuEscena]` y pulsar **Play**.
 
 ## Capturas
-![Nivel 1](Capturas/nivel1.png)
-![Nivel avanzado](Capturas/nivel_alto.png)
+![Nivel 1](Assets/Capturas/nivel1.png)
+![Nivel avanzado](Assets/Capturas/nivel_alto.png)
